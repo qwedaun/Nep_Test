@@ -17,7 +17,8 @@ namespace Nep_PR1
             var result = JsonConvert.DeserializeObject<ModelsApi.Rootobject>(response.Content);
             Console.WriteLine(result.bpi.USD.rate);
             Console.WriteLine(result.bpi.USD.description);
-           
+            Class_Test test = new Class_Test();
+            test.tt();
             Console.ReadLine();
 
         }

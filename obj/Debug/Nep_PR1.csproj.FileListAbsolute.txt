@@ -29,3 +29,34 @@
 \\192.168.10.6\учебные кабинеты\Кабинет 28\2022 - 2023\ОАиП\ИС-23к\Контроль\Отчеты\Клочков\Nep_PR1\obj\Debug\Nep_PR1.csproj.CopyComplete
 \\192.168.10.6\учебные кабинеты\Кабинет 28\2022 - 2023\ОАиП\ИС-23к\Контроль\Отчеты\Клочков\Nep_PR1\obj\Debug\Nep_PR1.exe
 \\192.168.10.6\учебные кабинеты\Кабинет 28\2022 - 2023\ОАиП\ИС-23к\Контроль\Отчеты\Клочков\Nep_PR1\obj\Debug\Nep_PR1.pdb
+C:\Nep\Nep_Test\bin\Debug\Nep_PR1.exe.config
+C:\Nep\Nep_Test\bin\Debug\Nep_PR1.exe
+C:\Nep\Nep_Test\bin\Debug\Nep_PR1.pdb
+C:\Nep\Nep_Test\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Nep\Nep_Test\bin\Debug\Newtonsoft.Json.dll
+C:\Nep\Nep_Test\bin\Debug\RestSharp.dll
+C:\Nep\Nep_Test\bin\Debug\System.Buffers.dll
+C:\Nep\Nep_Test\bin\Debug\System.Memory.dll
+C:\Nep\Nep_Test\bin\Debug\System.Numerics.Vectors.dll
+C:\Nep\Nep_Test\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Nep\Nep_Test\bin\Debug\System.Text.Encodings.Web.dll
+C:\Nep\Nep_Test\bin\Debug\System.Text.Json.dll
+C:\Nep\Nep_Test\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Nep\Nep_Test\bin\Debug\System.ValueTuple.dll
+C:\Nep\Nep_Test\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Nep\Nep_Test\bin\Debug\Newtonsoft.Json.xml
+C:\Nep\Nep_Test\bin\Debug\RestSharp.xml
+C:\Nep\Nep_Test\bin\Debug\System.Buffers.xml
+C:\Nep\Nep_Test\bin\Debug\System.Memory.xml
+C:\Nep\Nep_Test\bin\Debug\System.Numerics.Vectors.xml
+C:\Nep\Nep_Test\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Nep\Nep_Test\bin\Debug\System.Text.Encodings.Web.xml
+C:\Nep\Nep_Test\bin\Debug\System.Text.Json.xml
+C:\Nep\Nep_Test\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Nep\Nep_Test\bin\Debug\System.ValueTuple.xml
+C:\Nep\Nep_Test\obj\Debug\Nep_PR1.csproj.AssemblyReference.cache
+C:\Nep\Nep_Test\obj\Debug\Nep_PR1.csproj.SuggestedBindingRedirects.cache
+C:\Nep\Nep_Test\obj\Debug\Nep_PR1.csproj.CoreCompileInputs.cache
+C:\Nep\Nep_Test\obj\Debug\Nep_PR1.csproj.CopyComplete
+C:\Nep\Nep_Test\obj\Debug\Nep_PR1.exe
+C:\Nep\Nep_Test\obj\Debug\Nep_PR1.pdb
